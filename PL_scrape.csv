@@ -1,0 +1,1141 @@
+Date,Gameweek,HomeTeam,AwayTeam,Attendance,Stadium
+12/01/2021,18.0,Burnley,Man United,,Turf Moor
+12/09/2020,1.0,Crystal Palace,Southampton,,Selhurst Park
+12/09/2020,1.0,Fulham,Arsenal,,Craven Cottage
+12/09/2020,1.0,Liverpool,Leeds,,Anfield
+20/01/2021,19.0,Man City,Aston Villa,,Etihad Stadium
+13/09/2020,1.0,Tottenham,Everton,,Tottenham Hotspur Stadium
+13/09/2020,1.0,West Brom,Leicester,,The Hawthorns
+12/09/2020,1.0,West Ham,Newcastle,,London Stadium
+14/09/2020,1.0,Brighton,Chelsea,,Amex Stadium
+14/09/2020,1.0,Sheffield United,Wolves,,Bramall Lane
+19/09/2020,2.0,Arsenal,West Ham,,Emirates Stadium
+21/09/2020,2.0,Aston Villa,Sheffield United,,Villa Park
+20/09/2020,2.0,Chelsea,Liverpool,,Stamford Bridge
+19/09/2020,2.0,Everton,West Brom,,Goodison Park
+19/09/2020,2.0,Leeds,Fulham,,Elland Road
+20/09/2020,2.0,Leicester,Burnley,,King Power Stadium
+19/09/2020,2.0,Man United,Crystal Palace,,Old Trafford
+20/09/2020,2.0,Newcastle,Brighton,,St. James' Park
+20/09/2020,2.0,Southampton,Tottenham,,St. Mary's Stadium
+21/09/2020,2.0,Wolves,Man City,,Molineux Stadium
+26/09/2020,3.0,Brighton,Man United,,Amex Stadium
+26/09/2020,3.0,Burnley,Southampton,,Turf Moor
+26/09/2020,3.0,Crystal Palace,Everton,,Selhurst Park
+28/09/2020,3.0,Fulham,Aston Villa,,Craven Cottage
+28/09/2020,3.0,Liverpool,Arsenal,,Anfield
+27/09/2020,3.0,Man City,Leicester,,Etihad Stadium
+27/09/2020,3.0,Sheffield United,Leeds,,Bramall Lane
+27/09/2020,3.0,Tottenham,Newcastle,,Tottenham Hotspur Stadium
+26/09/2020,3.0,West Brom,Chelsea,,The Hawthorns
+27/09/2020,3.0,West Ham,Wolves,,London Stadium
+04/10/2020,4.0,Arsenal,Sheffield United,,Emirates Stadium
+04/10/2020,4.0,Aston Villa,Liverpool,,Villa Park
+03/10/2020,4.0,Chelsea,Crystal Palace,,Stamford Bridge
+03/10/2020,4.0,Everton,Brighton,,Goodison Park
+03/10/2020,4.0,Leeds,Man City,,Elland Road
+04/10/2020,4.0,Leicester,West Ham,,King Power Stadium
+04/10/2020,4.0,Man United,Tottenham,,Old Trafford
+03/10/2020,4.0,Newcastle,Burnley,,St. James' Park
+04/10/2020,4.0,Southampton,West Brom,,St. Mary's Stadium
+04/10/2020,4.0,Wolves,Fulham,,Molineux Stadium
+17/10/2020,5.0,Chelsea,Southampton,,Stamford Bridge
+18/10/2020,5.0,Crystal Palace,Brighton,,Selhurst Park
+17/10/2020,5.0,Everton,Liverpool,,Goodison Park
+19/10/2020,5.0,Leeds,Wolves,,Elland Road
+18/10/2020,5.0,Leicester,Aston Villa,,King Power Stadium
+17/10/2020,5.0,Man City,Arsenal,,Etihad Stadium
+17/10/2020,5.0,Newcastle,Man United,,St. James' Park
+18/10/2020,5.0,Sheffield United,Fulham,,Bramall Lane
+18/10/2020,5.0,Tottenham,West Ham,,Tottenham Hotspur Stadium
+19/10/2020,5.0,West Brom,Burnley,,The Hawthorns
+25/10/2020,6.0,Arsenal,Leicester,,Emirates Stadium
+23/10/2020,6.0,Aston Villa,Leeds,,Villa Park
+26/10/2020,6.0,Brighton,West Brom,,Amex Stadium
+26/10/2020,6.0,Burnley,Tottenham,,Turf Moor
+24/10/2020,6.0,Fulham,Crystal Palace,,Craven Cottage
+24/10/2020,6.0,Liverpool,Sheffield United,,Anfield
+24/10/2020,6.0,Man United,Chelsea,,Old Trafford
+25/10/2020,6.0,Southampton,Everton,,St. Mary's Stadium
+24/10/2020,6.0,West Ham,Man City,,London Stadium
+25/10/2020,6.0,Wolves,Newcastle,,Molineux Stadium
+01/11/2020,7.0,Aston Villa,Southampton,,Villa Park
+31/10/2020,7.0,Burnley,Chelsea,,Turf Moor
+02/11/2020,7.0,Fulham,West Brom,,Craven Cottage
+02/11/2020,7.0,Leeds,Leicester,,Elland Road
+31/10/2020,7.0,Liverpool,West Ham,,Anfield
+01/11/2020,7.0,Man United,Arsenal,,Old Trafford
+01/11/2020,7.0,Newcastle,Everton,,St. James' Park
+31/10/2020,7.0,Sheffield United,Man City,,Bramall Lane
+01/11/2020,7.0,Tottenham,Brighton,,Tottenham Hotspur Stadium
+30/10/2020,7.0,Wolves,Crystal Palace,,Molineux Stadium
+08/11/2020,8.0,Arsenal,Aston Villa,,Emirates Stadium
+06/11/2020,8.0,Brighton,Burnley,,Amex Stadium
+07/11/2020,8.0,Chelsea,Sheffield United,,Stamford Bridge
+07/11/2020,8.0,Crystal Palace,Leeds,,Selhurst Park
+07/11/2020,8.0,Everton,Man United,,Goodison Park
+08/11/2020,8.0,Leicester,Wolves,,King Power Stadium
+08/11/2020,8.0,Man City,Liverpool,,Etihad Stadium
+06/11/2020,8.0,Southampton,Newcastle,,St. Mary's Stadium
+08/11/2020,8.0,West Brom,Tottenham,,The Hawthorns
+07/11/2020,8.0,West Ham,Fulham,,London Stadium
+21/11/2020,9.0,Aston Villa,Brighton,,Villa Park
+23/11/2020,9.0,Burnley,Crystal Palace,,Turf Moor
+22/11/2020,9.0,Fulham,Everton,,Craven Cottage
+22/11/2020,9.0,Leeds,Arsenal,,Elland Road
+22/11/2020,9.0,Liverpool,Leicester,,Anfield
+21/11/2020,9.0,Man United,West Brom,,Old Trafford
+21/11/2020,9.0,Newcastle,Chelsea,,St. James' Park
+22/11/2020,9.0,Sheffield United,West Ham,,Bramall Lane
+21/11/2020,9.0,Tottenham,Man City,,Tottenham Hotspur Stadium
+23/11/2020,9.0,Wolves,Southampton,,Molineux Stadium
+29/11/2020,10.0,Arsenal,Wolves,,Emirates Stadium
+28/11/2020,10.0,Brighton,Liverpool,,Amex Stadium
+29/11/2020,10.0,Chelsea,Tottenham,,Stamford Bridge
+27/11/2020,10.0,Crystal Palace,Newcastle,,Selhurst Park
+28/11/2020,10.0,Everton,Leeds,,Goodison Park
+30/11/2020,10.0,Leicester,Fulham,,King Power Stadium
+28/11/2020,10.0,Man City,Burnley,,Etihad Stadium
+29/11/2020,10.0,Southampton,Man United,,St. Mary's Stadium
+28/11/2020,10.0,West Brom,Sheffield United,,The Hawthorns
+30/11/2020,10.0,West Ham,Aston Villa,,London Stadium
+23/01/2021,19.0,Aston Villa,Newcastle,,Villa Park
+07/12/2020,11.0,Brighton,Southampton,2000.0,Amex Stadium
+05/12/2020,11.0,Burnley,Everton,,Turf Moor
+05/12/2020,11.0,Chelsea,Leeds,2000.0,Stamford Bridge
+06/12/2020,11.0,Liverpool,Wolves,2000.0,Anfield
+05/12/2020,11.0,Man City,Fulham,,Etihad Stadium
+06/12/2020,11.0,Sheffield United,Leicester,,Bramall Lane
+06/12/2020,11.0,Tottenham,Arsenal,2000.0,Tottenham Hotspur Stadium
+06/12/2020,11.0,West Brom,Crystal Palace,,The Hawthorns
+05/12/2020,11.0,West Ham,Man United,2000.0,London Stadium
+13/12/2020,12.0,Arsenal,Burnley,2000.0,Emirates Stadium
+13/12/2020,12.0,Crystal Palace,Tottenham,2000.0,Selhurst Park
+12/12/2020,12.0,Everton,Chelsea,2000.0,Goodison Park
+13/12/2020,12.0,Fulham,Liverpool,2000.0,Craven Cottage
+11/12/2020,12.0,Leeds,West Ham,,Elland Road
+13/12/2020,12.0,Leicester,Brighton,,King Power Stadium
+12/12/2020,12.0,Man United,Man City,,Old Trafford
+12/12/2020,12.0,Newcastle,West Brom,,St. James' Park
+13/12/2020,12.0,Southampton,Sheffield United,2000.0,St. Mary's Stadium
+12/12/2020,12.0,Wolves,Aston Villa,,Molineux Stadium
+16/12/2020,13.0,Arsenal,Southampton,,Emirates Stadium
+17/12/2020,13.0,Aston Villa,Burnley,,Villa Park
+16/12/2020,13.0,Fulham,Brighton,,Craven Cottage
+16/12/2020,13.0,Leeds,Newcastle,,Elland Road
+16/12/2020,13.0,Leicester,Everton,,King Power Stadium
+17/12/2020,13.0,Sheffield United,Man United,,Bramall Lane
+16/12/2020,13.0,West Ham,Crystal Palace,,London Stadium
+15/12/2020,13.0,Wolves,Chelsea,,Molineux Stadium
+16/12/2020,13.0,Liverpool,Tottenham,2000.0,Anfield
+15/12/2020,13.0,Man City,West Brom,,Etihad Stadium
+20/12/2020,14.0,Brighton,Sheffield United,2000.0,Amex Stadium
+21/12/2020,14.0,Burnley,Wolves,,Turf Moor
+21/12/2020,14.0,Chelsea,West Ham,,Stamford Bridge
+19/12/2020,14.0,Crystal Palace,Liverpool,,Selhurst Park
+19/12/2020,14.0,Everton,Arsenal,2000.0,Goodison Park
+20/12/2020,14.0,Man United,Leeds,,Old Trafford
+19/12/2020,14.0,Newcastle,Fulham,,St. James' Park
+19/12/2020,14.0,Southampton,Man City,2000.0,St. Mary's Stadium
+20/12/2020,14.0,Tottenham,Leicester,,Tottenham Hotspur Stadium
+20/12/2020,14.0,West Brom,Aston Villa,,The Hawthorns
+26/12/2020,15.0,Arsenal,Chelsea,,Emirates Stadium
+26/12/2020,15.0,Aston Villa,Crystal Palace,,Villa Park
+26/12/2020,15.0,Fulham,Southampton,,Craven Cottage
+27/12/2020,15.0,Leeds,Burnley,,Elland Road
+26/12/2020,15.0,Leicester,Man United,,King Power Stadium
+27/12/2020,15.0,Liverpool,West Brom,2000.0,Anfield
+26/12/2020,15.0,Man City,Newcastle,,Etihad Stadium
+26/12/2020,15.0,Sheffield United,Everton,,Bramall Lane
+27/12/2020,15.0,West Ham,Brighton,,London Stadium
+27/12/2020,15.0,Wolves,Tottenham,,Molineux Stadium
+29/12/2020,16.0,Brighton,Arsenal,,Amex Stadium
+29/12/2020,16.0,Burnley,Sheffield United,,Turf Moor
+28/12/2020,16.0,Chelsea,Aston Villa,,Stamford Bridge
+28/12/2020,16.0,Crystal Palace,Leicester,,Selhurst Park
+17/02/2021,24.0,Everton,Man City,,Goodison Park
+29/12/2020,16.0,Man United,Wolves,,Old Trafford
+30/12/2020,16.0,Newcastle,Liverpool,,St. James' Park
+29/12/2020,16.0,Southampton,West Ham,,St. Mary's Stadium
+13/01/2021,18.0,Tottenham,Fulham,,Tottenham Hotspur Stadium
+29/12/2020,16.0,West Brom,Leeds,,The Hawthorns
+02/01/2021,17.0,Brighton,Wolves,,Amex Stadium
+17/02/2021,24.0,Burnley,Fulham,,Turf Moor
+03/01/2021,17.0,Chelsea,Man City,,Stamford Bridge
+02/01/2021,17.0,Crystal Palace,Sheffield United,,Selhurst Park
+01/01/2021,17.0,Everton,West Ham,,Goodison Park
+01/01/2021,17.0,Man United,Aston Villa,,Old Trafford
+03/01/2021,17.0,Newcastle,Leicester,,St. James' Park
+04/01/2021,17.0,Southampton,Liverpool,,St. Mary's Stadium
+02/01/2021,17.0,Tottenham,Leeds,,Tottenham Hotspur Stadium
+02/01/2021,17.0,West Brom,Arsenal,,The Hawthorns
+14/01/2021,18.0,Arsenal,Crystal Palace,,Emirates Stadium
+21/03/2021,29.0,Aston Villa,Tottenham,,Villa Park
+20/01/2021,19.0,Fulham,Man United,,Craven Cottage
+23/02/2021,25.0,Leeds,Southampton,,Elland Road
+19/01/2021,19.0,Leicester,Chelsea,,King Power Stadium
+12/01/2021,18.0,Sheffield United,Newcastle,,Bramall Lane
+19/01/2021,19.0,West Ham,West Brom,,London Stadium
+12/01/2021,18.0,Wolves,Everton,,Molineux Stadium
+21/01/2021,19.0,Liverpool,Burnley,,Anfield
+13/01/2021,18.0,Man City,Brighton,,Etihad Stadium
+18/01/2021,19.0,Arsenal,Newcastle,,Emirates Stadium
+13/05/2021,35.0,Aston Villa,Everton,,Villa Park
+16/01/2021,19.0,Fulham,Chelsea,,Craven Cottage
+16/01/2021,19.0,Leeds,Brighton,,Elland Road
+16/01/2021,19.0,Leicester,Southampton,,King Power Stadium
+17/01/2021,19.0,Liverpool,Man United,,Anfield
+17/01/2021,19.0,Man City,Crystal Palace,,Etihad Stadium
+17/01/2021,19.0,Sheffield United,Tottenham,,Bramall Lane
+16/01/2021,19.0,West Ham,Burnley,,London Stadium
+16/01/2021,19.0,Wolves,West Brom,,Molineux Stadium
+27/01/2021,20.0,Brighton,Fulham,,Amex Stadium
+27/01/2021,20.0,Burnley,Aston Villa,,Turf Moor
+27/01/2021,20.0,Everton,Leicester,,Goodison Park
+27/01/2021,20.0,Man United,Sheffield United,,Old Trafford
+26/01/2021,20.0,West Brom,Man City,,The Hawthorns
+27/01/2021,20.0,Chelsea,Wolves,,Stamford Bridge
+26/01/2021,20.0,Crystal Palace,West Ham,,Selhurst Park
+26/01/2021,20.0,Newcastle,Leeds,,St. James' Park
+26/01/2021,20.0,Southampton,Arsenal,,St. Mary's Stadium
+28/01/2021,20.0,Tottenham,Liverpool,,Tottenham Hotspur Stadium
+30/01/2021,21.0,Arsenal,Man United,,Emirates Stadium
+31/01/2021,21.0,Brighton,Tottenham,,Amex Stadium
+31/01/2021,21.0,Chelsea,Burnley,,Stamford Bridge
+30/01/2021,21.0,Crystal Palace,Wolves,,Selhurst Park
+30/01/2021,21.0,Everton,Newcastle,,Goodison Park
+31/01/2021,21.0,Leicester,Leeds,,King Power Stadium
+30/01/2021,21.0,Man City,Sheffield United,,Etihad Stadium
+30/01/2021,21.0,Southampton,Aston Villa,,St. Mary's Stadium
+30/01/2021,21.0,West Brom,Fulham,,The Hawthorns
+31/01/2021,21.0,West Ham,Liverpool,,London Stadium
+03/02/2021,22.0,Aston Villa,West Ham,,Villa Park
+03/02/2021,22.0,Burnley,Man City,,Turf Moor
+03/02/2021,22.0,Fulham,Leicester,,Craven Cottage
+03/02/2021,22.0,Leeds,Everton,,Elland Road
+02/02/2021,22.0,Man United,Southampton,,Old Trafford
+02/02/2021,22.0,Sheffield United,West Brom,,Bramall Lane
+02/02/2021,22.0,Wolves,Arsenal,,Molineux Stadium
+03/02/2021,22.0,Liverpool,Brighton,,Anfield
+02/02/2021,22.0,Newcastle,Crystal Palace,,St. James' Park
+04/02/2021,22.0,Tottenham,Chelsea,,Tottenham Hotspur Stadium
+06/02/2021,23.0,Aston Villa,Arsenal,,Villa Park
+06/02/2021,23.0,Burnley,Brighton,,Turf Moor
+06/02/2021,23.0,Fulham,West Ham,,Craven Cottage
+08/02/2021,23.0,Leeds,Crystal Palace,,Elland Road
+07/02/2021,23.0,Liverpool,Man City,,Anfield
+06/02/2021,23.0,Man United,Everton,,Old Trafford
+06/02/2021,23.0,Newcastle,Southampton,,St. James' Park
+07/02/2021,23.0,Sheffield United,Chelsea,,Bramall Lane
+07/02/2021,23.0,Tottenham,West Brom,,Tottenham Hotspur Stadium
+07/02/2021,23.0,Wolves,Leicester,,Molineux Stadium
+14/02/2021,24.0,Arsenal,Leeds,,Emirates Stadium
+13/02/2021,24.0,Brighton,Aston Villa,,Amex Stadium
+15/02/2021,24.0,Chelsea,Newcastle,,Stamford Bridge
+13/02/2021,24.0,Crystal Palace,Burnley,,Selhurst Park
+14/02/2021,24.0,Everton,Fulham,,Goodison Park
+13/02/2021,24.0,Leicester,Liverpool,,King Power Stadium
+13/02/2021,24.0,Man City,Tottenham,,Etihad Stadium
+14/02/2021,24.0,Southampton,Wolves,,St. Mary's Stadium
+14/02/2021,24.0,West Brom,Man United,,The Hawthorns
+15/02/2021,24.0,West Ham,Sheffield United,,London Stadium
+21/02/2021,25.0,Arsenal,Man City,,Emirates Stadium
+21/02/2021,25.0,Aston Villa,Leicester,,Villa Park
+22/02/2021,25.0,Brighton,Crystal Palace,,Amex Stadium
+20/02/2021,25.0,Burnley,West Brom,,Turf Moor
+20/02/2021,25.0,Fulham,Sheffield United,,Craven Cottage
+20/02/2021,25.0,Liverpool,Everton,,Anfield
+21/02/2021,25.0,Man United,Newcastle,,Old Trafford
+20/02/2021,25.0,Southampton,Chelsea,,St. Mary's Stadium
+21/02/2021,25.0,West Ham,Tottenham,,London Stadium
+19/02/2021,25.0,Wolves,Leeds,,Molineux Stadium
+28/02/2021,26.0,Chelsea,Man United,,Stamford Bridge
+28/02/2021,26.0,Crystal Palace,Fulham,,Selhurst Park
+01/03/2021,26.0,Everton,Southampton,,Goodison Park
+27/02/2021,26.0,Leeds,Aston Villa,,Elland Road
+28/02/2021,26.0,Leicester,Arsenal,,King Power Stadium
+27/02/2021,26.0,Man City,West Ham,,Etihad Stadium
+27/02/2021,26.0,Newcastle,Wolves,,St. James' Park
+28/02/2021,26.0,Sheffield United,Liverpool,,Bramall Lane
+28/02/2021,26.0,Tottenham,Burnley,,Tottenham Hotspur Stadium
+27/02/2021,26.0,West Brom,Brighton,,The Hawthorns
+06/03/2021,27.0,Aston Villa,Wolves,,Villa Park
+06/03/2021,27.0,Brighton,Leicester,,Amex Stadium
+06/03/2021,27.0,Burnley,Arsenal,,Turf Moor
+08/03/2021,27.0,Chelsea,Everton,,Stamford Bridge
+07/03/2021,27.0,Liverpool,Fulham,,Anfield
+07/03/2021,27.0,Man City,Man United,,Etihad Stadium
+06/03/2021,27.0,Sheffield United,Southampton,,Bramall Lane
+07/03/2021,27.0,Tottenham,Crystal Palace,,Tottenham Hotspur Stadium
+07/03/2021,27.0,West Brom,Newcastle,,The Hawthorns
+08/03/2021,27.0,West Ham,Leeds,,London Stadium
+14/03/2021,28.0,Arsenal,Tottenham,,Emirates Stadium
+13/03/2021,28.0,Crystal Palace,West Brom,,Selhurst Park
+13/03/2021,28.0,Everton,Burnley,,Goodison Park
+13/03/2021,28.0,Fulham,Man City,,Craven Cottage
+13/03/2021,28.0,Leeds,Chelsea,,Elland Road
+14/03/2021,28.0,Leicester,Sheffield United,,King Power Stadium
+14/03/2021,28.0,Man United,West Ham,,Old Trafford
+12/03/2021,28.0,Newcastle,Aston Villa,,St. James' Park
+14/03/2021,28.0,Southampton,Brighton,,St. Mary's Stadium
+15/03/2021,28.0,Wolves,Liverpool,,Molineux Stadium
+20/03/2021,29.0,Brighton,Newcastle,,Amex Stadium
+03/03/2021,26.0,Burnley,Leicester,,Turf Moor
+03/03/2021,26.0,Crystal Palace,Man United,,Selhurst Park
+19/03/2021,29.0,Fulham,Leeds,,Craven Cottage
+04/03/2021,26.0,Liverpool,Chelsea,,Anfield
+02/03/2021,26.0,Man City,Wolves,,Etihad Stadium
+03/03/2021,26.0,Sheffield United,Aston Villa,,Bramall Lane
+21/04/2021,32.0,Tottenham,Southampton,,Tottenham Hotspur Stadium
+04/03/2021,26.0,West Brom,Everton,,The Hawthorns
+21/03/2021,29.0,West Ham,Arsenal,,London Stadium
+03/04/2021,30.0,Arsenal,Liverpool,,Emirates Stadium
+04/04/2021,30.0,Aston Villa,Fulham,,Villa Park
+03/04/2021,30.0,Chelsea,West Brom,,Stamford Bridge
+05/04/2021,30.0,Everton,Crystal Palace,,Goodison Park
+03/04/2021,30.0,Leeds,Sheffield United,,Elland Road
+03/04/2021,30.0,Leicester,Man City,,King Power Stadium
+04/04/2021,30.0,Man United,Brighton,,Old Trafford
+04/04/2021,30.0,Newcastle,Tottenham,,St. James' Park
+04/04/2021,30.0,Southampton,Burnley,,St. Mary's Stadium
+05/04/2021,30.0,Wolves,West Ham,,Molineux Stadium
+12/04/2021,31.0,Brighton,Everton,,Amex Stadium
+11/04/2021,31.0,Burnley,Newcastle,,Turf Moor
+10/04/2021,31.0,Crystal Palace,Chelsea,,Selhurst Park
+09/04/2021,31.0,Fulham,Wolves,,Craven Cottage
+10/04/2021,31.0,Liverpool,Aston Villa,,Anfield
+10/04/2021,31.0,Man City,Leeds,,Etihad Stadium
+11/04/2021,31.0,Sheffield United,Arsenal,,Bramall Lane
+11/04/2021,31.0,Tottenham,Man United,,Tottenham Hotspur Stadium
+12/04/2021,31.0,West Brom,Southampton,,The Hawthorns
+11/04/2021,31.0,West Ham,Leicester,,London Stadium
+18/04/2021,32.0,Arsenal,Fulham,,Emirates Stadium
+21/04/2021,32.0,Aston Villa,Man City,,Villa Park
+20/04/2021,32.0,Chelsea,Brighton,,Stamford Bridge
+16/04/2021,32.0,Everton,Tottenham,,Goodison Park
+19/04/2021,32.0,Leeds,Liverpool,,Elland Road
+22/04/2021,32.0,Leicester,West Brom,,King Power Stadium
+18/04/2021,32.0,Man United,Burnley,,Old Trafford
+17/04/2021,32.0,Newcastle,West Ham,,St. James' Park
+11/05/2021,35.0,Southampton,Crystal Palace,,St. Mary's Stadium
+17/04/2021,32.0,Wolves,Sheffield United,,Molineux Stadium
+23/04/2021,33.0,Arsenal,Everton,,Emirates Stadium
+25/04/2021,33.0,Aston Villa,West Brom,,Villa Park
+04/03/2021,26.0,Fulham,Tottenham,,Craven Cottage
+25/04/2021,33.0,Leeds,Man United,,Elland Road
+26/04/2021,33.0,Leicester,Crystal Palace,,King Power Stadium
+24/04/2021,33.0,Liverpool,Newcastle,,Anfield
+10/03/2021,27.0,Man City,Southampton,,Etihad Stadium
+24/04/2021,33.0,Sheffield United,Brighton,,Bramall Lane
+24/04/2021,33.0,West Ham,Chelsea,,London Stadium
+25/04/2021,33.0,Wolves,Burnley,,Molineux Stadium
+01/05/2021,34.0,Brighton,Leeds,,Amex Stadium
+03/05/2021,34.0,Burnley,West Ham,,Turf Moor
+01/05/2021,34.0,Chelsea,Fulham,,Stamford Bridge
+01/05/2021,34.0,Crystal Palace,Man City,,Selhurst Park
+01/05/2021,34.0,Everton,Aston Villa,,Goodison Park
+13/05/2021,35.0,Man United,Liverpool,,Old Trafford
+02/05/2021,34.0,Newcastle,Arsenal,,St. James' Park
+30/04/2021,34.0,Southampton,Leicester,,St. Mary's Stadium
+02/05/2021,34.0,Tottenham,Sheffield United,,Tottenham Hotspur Stadium
+03/05/2021,34.0,West Brom,Wolves,,The Hawthorns
+09/05/2021,35.0,Arsenal,West Brom,,Emirates Stadium
+09/05/2021,35.0,Aston Villa,Man United,,Villa Park
+10/05/2021,35.0,Fulham,Burnley,,Craven Cottage
+08/05/2021,35.0,Leeds,Tottenham,,Elland Road
+07/05/2021,35.0,Leicester,Newcastle,,King Power Stadium
+08/05/2021,35.0,Liverpool,Southampton,,Anfield
+08/05/2021,35.0,Man City,Chelsea,,Etihad Stadium
+08/05/2021,35.0,Sheffield United,Crystal Palace,,Bramall Lane
+09/05/2021,35.0,West Ham,Everton,,London Stadium
+09/05/2021,35.0,Wolves,Brighton,,Molineux Stadium
+15/05/2021,36.0,Brighton,West Ham,,Amex Stadium
+15/05/2021,36.0,Burnley,Leeds,,Turf Moor
+16/05/2021,36.0,Everton,Sheffield United,,Goodison Park
+11/05/2021,35.0,Man United,Leicester,,Old Trafford
+16/05/2021,36.0,West Brom,Liverpool,,The Hawthorns
+12/05/2021,35.0,Chelsea,Arsenal,,Stamford Bridge
+16/05/2021,36.0,Crystal Palace,Aston Villa,,Selhurst Park
+14/05/2021,36.0,Newcastle,Man City,,St. James' Park
+15/05/2021,36.0,Southampton,Fulham,,St. Mary's Stadium
+16/05/2021,36.0,Tottenham,Wolves,,Tottenham Hotspur Stadium
+18/05/2021,37.0,Brighton,Man City,7945.0,Amex Stadium
+19/05/2021,37.0,Burnley,Liverpool,3387.0,Turf Moor
+18/05/2021,37.0,Chelsea,Leicester,7195.0,Stamford Bridge
+19/05/2021,37.0,Crystal Palace,Arsenal,6500.0,Selhurst Park
+19/05/2021,37.0,Everton,Wolves,6068.0,Goodison Park
+18/05/2021,37.0,Man United,Fulham,9347.0,Old Trafford
+19/05/2021,37.0,Newcastle,Sheffield United,10000.0,St. James' Park
+18/05/2021,37.0,Southampton,Leeds,7291.0,St. Mary's Stadium
+19/05/2021,37.0,Tottenham,Aston Villa,10000.0,Tottenham Hotspur Stadium
+19/05/2021,37.0,West Brom,West Ham,5371.0,The Hawthorns
+23/05/2021,38.0,Arsenal,Brighton,10000.0,Emirates Stadium
+23/05/2021,38.0,Aston Villa,Chelsea,10000.0,Villa Park
+23/05/2021,38.0,Fulham,Newcastle,2000.0,Craven Cottage
+23/05/2021,38.0,Leeds,West Brom,8000.0,Elland Road
+23/05/2021,38.0,Leicester,Tottenham,8000.0,King Power Stadium
+23/05/2021,38.0,Liverpool,Crystal Palace,9901.0,Anfield
+23/05/2021,38.0,Man City,Everton,10000.0,Etihad Stadium
+23/05/2021,38.0,Sheffield United,Burnley,5096.0,Bramall Lane
+23/05/2021,38.0,West Ham,Southampton,10000.0,London Stadium
+23/05/2021,38.0,Wolves,Man United,4500.0,Molineux Stadium
+13/08/2021,1.0,Brentford,Arsenal,16479.0,Gtech Community Stadium
+14/08/2021,1.0,Burnley,Brighton,16910.0,Turf Moor
+14/08/2021,1.0,Chelsea,Crystal Palace,38965.0,Stamford Bridge
+14/08/2021,1.0,Everton,Southampton,38487.0,Goodison Park
+14/08/2021,1.0,Leicester,Wolves,31983.0,King Power Stadium
+14/08/2021,1.0,Man United,Leeds,72732.0,Old Trafford
+15/08/2021,1.0,Newcastle,West Ham,50673.0,St. James' Park
+14/08/2021,1.0,Norwich,Liverpool,27023.0,Carrow Road
+15/08/2021,1.0,Tottenham,Man City,58262.0,Tottenham Hotspur Stadium
+14/08/2021,1.0,Watford,Aston Villa,20051.0,Vicarage Road
+22/08/2021,2.0,Arsenal,Chelsea,58729.0,Emirates Stadium
+21/08/2021,2.0,Aston Villa,Newcastle,41964.0,Villa Park
+21/08/2021,2.0,Brighton,Watford,29485.0,Amex Stadium
+21/08/2021,2.0,Crystal Palace,Brentford,23091.0,Selhurst Park
+21/08/2021,2.0,Leeds,Everton,36293.0,Elland Road
+21/08/2021,2.0,Liverpool,Burnley,52591.0,Anfield
+21/08/2021,2.0,Man City,Norwich,51437.0,Etihad Stadium
+22/08/2021,2.0,Southampton,Man United,29485.0,St. Mary's Stadium
+23/08/2021,2.0,West Ham,Leicester,59901.0,London Stadium
+22/08/2021,2.0,Wolves,Tottenham,30368.0,Molineux Stadium
+28/08/2021,3.0,Aston Villa,Brentford,42045.0,Villa Park
+28/08/2021,3.0,Brighton,Everton,30548.0,Amex Stadium
+29/08/2021,3.0,Burnley,Leeds,18665.0,Turf Moor
+28/08/2021,3.0,Liverpool,Chelsea,,Anfield
+28/08/2021,3.0,Man City,Arsenal,52276.0,Etihad Stadium
+28/08/2021,3.0,Newcastle,Southampton,44017.0,St. James' Park
+28/08/2021,3.0,Norwich,Leicester,26765.0,Carrow Road
+29/08/2021,3.0,Tottenham,Watford,57672.0,Tottenham Hotspur Stadium
+28/08/2021,3.0,West Ham,Crystal Palace,59751.0,London Stadium
+29/08/2021,3.0,Wolves,Man United,30621.0,Molineux Stadium
+11/09/2021,4.0,Arsenal,Norwich,59337.0,Emirates Stadium
+11/09/2021,4.0,Brentford,Brighton,16518.0,Gtech Community Stadium
+11/09/2021,4.0,Chelsea,Aston Villa,39969.0,Stamford Bridge
+11/09/2021,4.0,Crystal Palace,Tottenham,22740.0,Selhurst Park
+13/09/2021,4.0,Everton,Burnley,38354.0,Goodison Park
+12/09/2021,4.0,Leeds,Liverpool,36507.0,Elland Road
+11/09/2021,4.0,Leicester,Man City,32087.0,King Power Stadium
+11/09/2021,4.0,Man United,Newcastle,72732.0,Old Trafford
+11/09/2021,4.0,Southampton,West Ham,,St. Mary's Stadium
+11/09/2021,4.0,Watford,Wolves,20019.0,Vicarage Road
+18/09/2021,5.0,Aston Villa,Everton,41888.0,Villa Park
+19/09/2021,5.0,Brighton,Leicester,31078.0,Amex Stadium
+18/09/2021,5.0,Burnley,Arsenal,21944.0,Turf Moor
+18/09/2021,5.0,Liverpool,Crystal Palace,52985.0,Anfield
+18/09/2021,5.0,Man City,Southampton,52698.0,Etihad Stadium
+17/09/2021,5.0,Newcastle,Leeds,50407.0,St. James' Park
+18/09/2021,5.0,Norwich,Watford,26649.0,Carrow Road
+19/09/2021,5.0,Tottenham,Chelsea,60059.0,Tottenham Hotspur Stadium
+19/09/2021,5.0,West Ham,Man United,59958.0,London Stadium
+18/09/2021,5.0,Wolves,Brentford,29724.0,Molineux Stadium
+26/09/2021,6.0,Arsenal,Tottenham,59919.0,Emirates Stadium
+25/09/2021,6.0,Brentford,Liverpool,16876.0,Gtech Community Stadium
+25/09/2021,6.0,Chelsea,Man City,40036.0,Stamford Bridge
+27/09/2021,6.0,Crystal Palace,Brighton,22975.0,Selhurst Park
+25/09/2021,6.0,Everton,Norwich,38821.0,Goodison Park
+25/09/2021,6.0,Leeds,West Ham,36417.0,Elland Road
+25/09/2021,6.0,Leicester,Burnley,31650.0,King Power Stadium
+25/09/2021,6.0,Man United,Aston Villa,72922.0,Old Trafford
+26/09/2021,6.0,Southampton,Wolves,28002.0,St. Mary's Stadium
+25/09/2021,6.0,Watford,Newcastle,20650.0,Vicarage Road
+02/10/2021,7.0,Brighton,Arsenal,31266.0,Amex Stadium
+02/10/2021,7.0,Burnley,Norwich,17427.0,Turf Moor
+02/10/2021,7.0,Chelsea,Southampton,40109.0,Stamford Bridge
+03/10/2021,7.0,Crystal Palace,Leicester,22445.0,Selhurst Park
+02/10/2021,7.0,Leeds,Watford,36261.0,Elland Road
+03/10/2021,7.0,Liverpool,Man City,53102.0,Anfield
+02/10/2021,7.0,Man United,Everton,73128.0,Old Trafford
+03/10/2021,7.0,Tottenham,Aston Villa,53076.0,Tottenham Hotspur Stadium
+03/10/2021,7.0,West Ham,Brentford,49940.0,London Stadium
+02/10/2021,7.0,Wolves,Newcastle,30483.0,Molineux Stadium
+18/10/2021,8.0,Arsenal,Crystal Palace,59475.0,Emirates Stadium
+16/10/2021,8.0,Aston Villa,Wolves,41951.0,Villa Park
+16/10/2021,8.0,Brentford,Chelsea,16940.0,Gtech Community Stadium
+17/10/2021,8.0,Everton,West Ham,39132.0,Goodison Park
+16/10/2021,8.0,Leicester,Man United,32219.0,King Power Stadium
+16/10/2021,8.0,Man City,Burnley,52711.0,Etihad Stadium
+17/10/2021,8.0,Newcastle,Tottenham,52214.0,St. James' Park
+16/10/2021,8.0,Norwich,Brighton,26777.0,Carrow Road
+16/10/2021,8.0,Southampton,Leeds,30506.0,St. Mary's Stadium
+16/10/2021,8.0,Watford,Liverpool,21085.0,Vicarage Road
+22/10/2021,9.0,Arsenal,Aston Villa,59496.0,Emirates Stadium
+24/10/2021,9.0,Brentford,Leicester,16814.0,Gtech Community Stadium
+23/10/2021,9.0,Brighton,Man City,31215.0,Amex Stadium
+23/10/2021,9.0,Chelsea,Norwich,40113.0,Stamford Bridge
+23/10/2021,9.0,Crystal Palace,Newcastle,24609.0,Selhurst Park
+23/10/2021,9.0,Everton,Watford,38834.0,Goodison Park
+23/10/2021,9.0,Leeds,Wolves,36475.0,Elland Road
+24/10/2021,9.0,Man United,Liverpool,73088.0,Old Trafford
+23/10/2021,9.0,Southampton,Burnley,29145.0,St. Mary's Stadium
+24/10/2021,9.0,West Ham,Tottenham,59924.0,London Stadium
+31/10/2021,10.0,Aston Villa,West Ham,41874.0,Villa Park
+30/10/2021,10.0,Burnley,Brentford,18821.0,Turf Moor
+30/10/2021,10.0,Leicester,Arsenal,32209.0,King Power Stadium
+30/10/2021,10.0,Liverpool,Brighton,53197.0,Anfield
+30/10/2021,10.0,Man City,Crystal Palace,53014.0,Etihad Stadium
+30/10/2021,10.0,Newcastle,Chelsea,52208.0,St. James' Park
+31/10/2021,10.0,Norwich,Leeds,26913.0,Carrow Road
+30/10/2021,10.0,Tottenham,Man United,60356.0,Tottenham Hotspur Stadium
+30/10/2021,10.0,Watford,Southampton,20869.0,Vicarage Road
+01/11/2021,10.0,Wolves,Everton,30617.0,Molineux Stadium
+07/11/2021,11.0,Arsenal,Watford,59833.0,Emirates Stadium
+06/11/2021,11.0,Brentford,Norwich,16837.0,Gtech Community Stadium
+06/11/2021,11.0,Brighton,Newcastle,31267.0,Amex Stadium
+06/11/2021,11.0,Chelsea,Burnley,39798.0,Stamford Bridge
+06/11/2021,11.0,Crystal Palace,Wolves,24390.0,Selhurst Park
+07/11/2021,11.0,Everton,Tottenham,39059.0,Goodison Park
+07/11/2021,11.0,Leeds,Leicester,36478.0,Elland Road
+06/11/2021,11.0,Man United,Man City,73086.0,Old Trafford
+05/11/2021,11.0,Southampton,Aston Villa,30178.0,St. Mary's Stadium
+07/11/2021,11.0,West Ham,Liverpool,59909.0,London Stadium
+20/11/2021,12.0,Aston Villa,Brighton,41925.0,Villa Park
+20/11/2021,12.0,Burnley,Crystal Palace,18028.0,Turf Moor
+20/11/2021,12.0,Leicester,Chelsea,32192.0,King Power Stadium
+20/11/2021,12.0,Liverpool,Arsenal,53092.0,Anfield
+21/11/2021,12.0,Man City,Everton,52571.0,Etihad Stadium
+20/11/2021,12.0,Newcastle,Brentford,52131.0,St. James' Park
+20/11/2021,12.0,Norwich,Southampton,26885.0,Carrow Road
+21/11/2021,12.0,Tottenham,Leeds,58989.0,Tottenham Hotspur Stadium
+20/11/2021,12.0,Watford,Man United,21087.0,Vicarage Road
+20/11/2021,12.0,Wolves,West Ham,30667.0,Molineux Stadium
+27/11/2021,13.0,Arsenal,Newcastle,59886.0,Emirates Stadium
+28/11/2021,13.0,Brentford,Everton,16957.0,Gtech Community Stadium
+27/11/2021,13.0,Brighton,Leeds,31166.0,Amex Stadium
+23/02/2022,26.0,Burnley,Tottenham,19488.0,Turf Moor
+28/11/2021,13.0,Chelsea,Man United,40041.0,Stamford Bridge
+27/11/2021,13.0,Crystal Palace,Aston Villa,25203.0,Selhurst Park
+28/11/2021,13.0,Leicester,Watford,32020.0,King Power Stadium
+27/11/2021,13.0,Liverpool,Southampton,53040.0,Anfield
+28/11/2021,13.0,Man City,West Ham,53245.0,Etihad Stadium
+27/11/2021,13.0,Norwich,Wolves,26911.0,Carrow Road
+01/12/2021,14.0,Aston Villa,Man City,41400.0,Villa Park
+01/12/2021,14.0,Everton,Liverpool,39641.0,Goodison Park
+30/11/2021,14.0,Leeds,Crystal Palace,35558.0,Elland Road
+02/12/2021,14.0,Man United,Arsenal,73123.0,Old Trafford
+01/12/2021,14.0,Watford,Chelsea,20388.0,Vicarage Road
+01/12/2021,14.0,West Ham,Brighton,59626.0,London Stadium
+01/12/2021,14.0,Wolves,Burnley,30328.0,Molineux Stadium
+30/11/2021,14.0,Newcastle,Norwich,50757.0,St. James' Park
+01/12/2021,14.0,Southampton,Leicester,26951.0,St. Mary's Stadium
+02/12/2021,14.0,Tottenham,Brentford,54202.0,Tottenham Hotspur Stadium
+05/12/2021,15.0,Aston Villa,Leicester,41572.0,Villa Park
+06/12/2021,15.0,Everton,Arsenal,38906.0,Goodison Park
+05/12/2021,15.0,Leeds,Brentford,35639.0,Elland Road
+05/12/2021,15.0,Man United,Crystal Palace,73172.0,Old Trafford
+04/12/2021,15.0,Newcastle,Burnley,51948.0,St. James' Park
+04/12/2021,15.0,Southampton,Brighton,28706.0,St. Mary's Stadium
+05/12/2021,15.0,Tottenham,Norwich,57088.0,Tottenham Hotspur Stadium
+04/12/2021,15.0,Watford,Man City,20673.0,Vicarage Road
+04/12/2021,15.0,West Ham,Chelsea,59942.0,London Stadium
+04/12/2021,15.0,Wolves,Liverpool,30729.0,Molineux Stadium
+11/12/2021,16.0,Arsenal,Southampton,59653.0,Emirates Stadium
+10/12/2021,16.0,Brentford,Watford,16861.0,Gtech Community Stadium
+16/03/2022,29.0,Brighton,Tottenham,31144.0,Amex Stadium
+12/12/2021,16.0,Burnley,West Ham,18065.0,Turf Moor
+11/12/2021,16.0,Chelsea,Leeds,39959.0,Stamford Bridge
+12/12/2021,16.0,Crystal Palace,Everton,24066.0,Selhurst Park
+12/12/2021,16.0,Leicester,Newcastle,31959.0,King Power Stadium
+11/12/2021,16.0,Liverpool,Aston Villa,53093.0,Anfield
+11/12/2021,16.0,Man City,Wolves,52613.0,Etihad Stadium
+11/12/2021,16.0,Norwich,Man United,27066.0,Carrow Road
+15/12/2021,17.0,Arsenal,West Ham,59777.0,Emirates Stadium
+19/01/2022,22.0,Brentford,Man United,17094.0,Gtech Community Stadium
+15/12/2021,17.0,Brighton,Wolves,30362.0,Amex Stadium
+05/02/2022,23.0,Burnley,Watford,19527.0,Turf Moor
+15/12/2021,17.0,Crystal Palace,Southampton,22861.0,Selhurst Park
+19/01/2022,22.0,Leicester,Tottenham,31986.0,King Power Stadium
+14/12/2021,17.0,Norwich,Aston Villa,26836.0,Carrow Road
+16/12/2021,17.0,Chelsea,Everton,39933.0,Stamford Bridge
+16/12/2021,17.0,Liverpool,Newcastle,52951.0,Anfield
+14/12/2021,17.0,Man City,Leeds,52401.0,Etihad Stadium
+19/05/2022,37.0,Aston Villa,Burnley,40468.0,Villa Park
+20/04/2022,33.0,Everton,Leicester,39153.0,Goodison Park
+18/12/2021,18.0,Leeds,Arsenal,36166.0,Elland Road
+15/02/2022,25.0,Man United,Brighton,73012.0,Old Trafford
+19/12/2021,18.0,Newcastle,Man City,52127.0,St. James' Park
+11/01/2022,21.0,Southampton,Brentford,27383.0,St. Mary's Stadium
+19/12/2021,18.0,Tottenham,Liverpool,45421.0,Tottenham Hotspur Stadium
+23/02/2022,26.0,Watford,Crystal Palace,20012.0,Vicarage Road
+12/01/2022,21.0,West Ham,Norwich,59775.0,London Stadium
+19/12/2021,18.0,Wolves,Chelsea,30631.0,Molineux Stadium
+26/12/2021,19.0,Aston Villa,Chelsea,41907.0,Villa Park
+26/12/2021,19.0,Brighton,Brentford,30141.0,Amex Stadium
+06/04/2022,31.0,Burnley,Everton,19830.0,Turf Moor
+23/02/2022,26.0,Liverpool,Leeds,53018.0,Anfield
+26/12/2021,19.0,Man City,Leicester,53226.0,Etihad Stadium
+27/12/2021,19.0,Newcastle,Man United,52178.0,St. James' Park
+26/12/2021,19.0,Norwich,Arsenal,26940.0,Carrow Road
+26/12/2021,19.0,Tottenham,Crystal Palace,40539.0,Tottenham Hotspur Stadium
+26/12/2021,19.0,West Ham,Southampton,41027.0,London Stadium
+10/03/2022,28.0,Wolves,Watford,29658.0,Molineux Stadium
+24/02/2022,26.0,Arsenal,Wolves,59888.0,Emirates Stadium
+29/12/2021,20.0,Brentford,Man City,17009.0,Gtech Community Stadium
+29/12/2021,20.0,Chelsea,Brighton,40080.0,Stamford Bridge
+28/12/2021,20.0,Crystal Palace,Norwich,24433.0,Selhurst Park
+17/03/2022,29.0,Everton,Newcastle,39068.0,Goodison Park
+10/03/2022,28.0,Leeds,Aston Villa,36400.0,Elland Road
+28/12/2021,20.0,Leicester,Liverpool,32230.0,King Power Stadium
+30/12/2021,20.0,Man United,Burnley,73121.0,Old Trafford
+28/12/2021,20.0,Southampton,Tottenham,31304.0,St. Mary's Stadium
+28/12/2021,20.0,Watford,West Ham,20073.0,Vicarage Road
+01/01/2022,21.0,Arsenal,Man City,59757.0,Emirates Stadium
+02/01/2022,21.0,Brentford,Aston Villa,16876.0,Gtech Community Stadium
+02/01/2022,21.0,Chelsea,Liverpool,40072.0,Stamford Bridge
+01/01/2022,21.0,Crystal Palace,West Ham,24351.0,Selhurst Park
+02/01/2022,21.0,Everton,Brighton,38203.0,Goodison Park
+02/01/2022,21.0,Leeds,Burnley,36083.0,Elland Road
+11/05/2022,36.0,Leicester,Norwich,30892.0,King Power Stadium
+03/01/2022,21.0,Man United,Wolves,73045.0,Old Trafford
+10/03/2022,28.0,Southampton,Newcastle,31016.0,St. Mary's Stadium
+01/01/2022,21.0,Watford,Tottenham,20391.0,Vicarage Road
+15/01/2022,22.0,Aston Villa,Man United,41968.0,Villa Park
+14/01/2022,22.0,Brighton,Crystal Palace,30675.0,Amex Stadium
+01/03/2022,27.0,Burnley,Leicester,17825.0,Turf Moor
+16/01/2022,22.0,Liverpool,Brentford,52824.0,Anfield
+15/01/2022,22.0,Man City,Chelsea,53319.0,Etihad Stadium
+15/01/2022,22.0,Newcastle,Watford,52223.0,St. James' Park
+15/01/2022,22.0,Norwich,Everton,26629.0,Carrow Road
+12/05/2022,36.0,Tottenham,Arsenal,62027.0,Tottenham Hotspur Stadium
+16/01/2022,22.0,West Ham,Leeds,59951.0,London Stadium
+15/01/2022,22.0,Wolves,Southampton,30057.0,Molineux Stadium
+23/01/2022,23.0,Arsenal,Burnley,59255.0,Emirates Stadium
+22/01/2022,23.0,Brentford,Wolves,16982.0,Gtech Community Stadium
+23/01/2022,23.0,Chelsea,Tottenham,40020.0,Stamford Bridge
+23/01/2022,23.0,Crystal Palace,Liverpool,25002.0,Selhurst Park
+22/01/2022,23.0,Everton,Aston Villa,38203.0,Goodison Park
+22/01/2022,23.0,Leeds,Newcastle,36405.0,Elland Road
+23/01/2022,23.0,Leicester,Brighton,31231.0,King Power Stadium
+22/01/2022,23.0,Man United,West Ham,73130.0,Old Trafford
+22/01/2022,23.0,Southampton,Man City,31178.0,St. Mary's Stadium
+21/01/2022,23.0,Watford,Norwich,20782.0,Vicarage Road
+09/02/2022,24.0,Aston Villa,Leeds,41927.0,Villa Park
+18/01/2022,22.0,Brighton,Chelsea,30880.0,Amex Stadium
+08/02/2022,24.0,Burnley,Man United,21233.0,Turf Moor
+09/02/2022,24.0,Norwich,Crystal Palace,26652.0,Carrow Road
+08/02/2022,24.0,West Ham,Watford,59581.0,London Stadium
+10/02/2022,24.0,Wolves,Arsenal,31523.0,Molineux Stadium
+10/02/2022,24.0,Liverpool,Leicester,53050.0,Anfield
+09/02/2022,24.0,Man City,Brentford,51658.0,Etihad Stadium
+08/02/2022,24.0,Newcastle,Everton,52186.0,St. James' Park
+09/02/2022,24.0,Tottenham,Southampton,54012.0,Tottenham Hotspur Stadium
+12/02/2022,25.0,Brentford,Crystal Palace,16958.0,Gtech Community Stadium
+13/02/2022,25.0,Burnley,Liverpool,21239.0,Turf Moor
+20/04/2022,33.0,Chelsea,Arsenal,32249.0,Stamford Bridge
+12/02/2022,25.0,Everton,Leeds,39150.0,Goodison Park
+13/02/2022,25.0,Leicester,West Ham,32061.0,King Power Stadium
+12/02/2022,25.0,Man United,Southampton,73084.0,Old Trafford
+13/02/2022,25.0,Newcastle,Aston Villa,52207.0,St. James' Park
+12/02/2022,25.0,Norwich,Man City,27010.0,Carrow Road
+13/02/2022,25.0,Tottenham,Wolves,56452.0,Tottenham Hotspur Stadium
+12/02/2022,25.0,Watford,Brighton,20795.0,Vicarage Road
+19/02/2022,26.0,Arsenal,Brentford,60015.0,Emirates Stadium
+19/02/2022,26.0,Aston Villa,Watford,41936.0,Villa Park
+19/02/2022,26.0,Brighton,Burnley,29921.0,Amex Stadium
+19/02/2022,26.0,Crystal Palace,Chelsea,25109.0,Selhurst Park
+20/02/2022,26.0,Leeds,Man United,36715.0,Elland Road
+19/02/2022,26.0,Liverpool,Norwich,53135.0,Anfield
+19/02/2022,26.0,Man City,Tottenham,53201.0,Etihad Stadium
+19/02/2022,26.0,Southampton,Everton,31312.0,St. Mary's Stadium
+19/02/2022,26.0,West Ham,Newcastle,59949.0,London Stadium
+20/02/2022,26.0,Wolves,Leicester,31497.0,Molineux Stadium
+16/03/2022,29.0,Arsenal,Liverpool,59968.0,Emirates Stadium
+26/02/2022,27.0,Brentford,Newcastle,17039.0,Gtech Community Stadium
+26/02/2022,27.0,Brighton,Aston Villa,31475.0,Amex Stadium
+19/05/2022,37.0,Chelsea,Leicester,31478.0,Stamford Bridge
+26/02/2022,27.0,Crystal Palace,Burnley,24203.0,Selhurst Park
+26/02/2022,27.0,Everton,Man City,39105.0,Goodison Park
+26/02/2022,27.0,Leeds,Tottenham,36599.0,Elland Road
+26/02/2022,27.0,Man United,Watford,73152.0,Old Trafford
+25/02/2022,27.0,Southampton,Norwich,31182.0,St. Mary's Stadium
+27/02/2022,27.0,West Ham,Wolves,59946.0,London Stadium
+05/03/2022,28.0,Aston Villa,Southampton,41855.0,Villa Park
+05/03/2022,28.0,Burnley,Chelsea,19439.0,Turf Moor
+05/03/2022,28.0,Leicester,Leeds,32236.0,King Power Stadium
+05/03/2022,28.0,Liverpool,West Ham,53059.0,Anfield
+06/03/2022,28.0,Man City,Man United,53165.0,Etihad Stadium
+05/03/2022,28.0,Newcastle,Brighton,52214.0,St. James' Park
+05/03/2022,28.0,Norwich,Brentford,26887.0,Carrow Road
+07/03/2022,28.0,Tottenham,Everton,59647.0,Tottenham Hotspur Stadium
+06/03/2022,28.0,Watford,Arsenal,21142.0,Vicarage Road
+05/03/2022,28.0,Wolves,Crystal Palace,31395.0,Molineux Stadium
+13/03/2022,29.0,Arsenal,Leicester,60111.0,Emirates Stadium
+12/03/2022,29.0,Brentford,Burnley,16984.0,Gtech Community Stadium
+12/03/2022,29.0,Brighton,Liverpool,31474.0,Amex Stadium
+13/03/2022,29.0,Chelsea,Newcastle,40026.0,Stamford Bridge
+14/03/2022,29.0,Crystal Palace,Man City,25309.0,Selhurst Park
+13/03/2022,29.0,Everton,Wolves,39112.0,Goodison Park
+13/03/2022,29.0,Leeds,Norwich,36321.0,Elland Road
+12/03/2022,29.0,Man United,Tottenham,73458.0,Old Trafford
+13/03/2022,29.0,Southampton,Watford,28863.0,St. Mary's Stadium
+13/03/2022,29.0,West Ham,Aston Villa,59957.0,London Stadium
+19/03/2022,30.0,Aston Villa,Arsenal,41956.0,Villa Park
+21/04/2022,33.0,Burnley,Southampton,17384.0,Turf Moor
+20/03/2022,30.0,Leicester,Brentford,31830.0,King Power Stadium
+19/04/2022,33.0,Liverpool,Man United,52686.0,Anfield
+20/04/2022,33.0,Man City,Brighton,52226.0,Etihad Stadium
+20/04/2022,33.0,Newcastle,Crystal Palace,51938.0,St. James' Park
+10/03/2022,28.0,Norwich,Chelsea,26722.0,Carrow Road
+20/03/2022,30.0,Tottenham,West Ham,58685.0,Tottenham Hotspur Stadium
+11/05/2022,36.0,Watford,Everton,20653.0,Vicarage Road
+18/03/2022,30.0,Wolves,Leeds,31842.0,Molineux Stadium
+02/04/2022,31.0,Brighton,Norwich,31245.0,Amex Stadium
+02/04/2022,31.0,Burnley,Man City,20388.0,Turf Moor
+02/04/2022,31.0,Chelsea,Brentford,39061.0,Stamford Bridge
+04/04/2022,31.0,Crystal Palace,Arsenal,25149.0,Selhurst Park
+02/04/2022,31.0,Leeds,Southampton,36580.0,Elland Road
+02/04/2022,31.0,Liverpool,Watford,53104.0,Anfield
+02/04/2022,31.0,Man United,Leicester,73444.0,Old Trafford
+03/04/2022,31.0,Tottenham,Newcastle,57553.0,Tottenham Hotspur Stadium
+03/04/2022,31.0,West Ham,Everton,59953.0,London Stadium
+02/04/2022,31.0,Wolves,Aston Villa,31012.0,Molineux Stadium
+09/04/2022,32.0,Arsenal,Brighton,60112.0,Emirates Stadium
+09/04/2022,32.0,Aston Villa,Tottenham,41949.0,Villa Park
+10/04/2022,32.0,Brentford,West Ham,17032.0,Gtech Community Stadium
+09/04/2022,32.0,Everton,Man United,39080.0,Goodison Park
+10/04/2022,32.0,Leicester,Crystal Palace,31896.0,King Power Stadium
+10/04/2022,32.0,Man City,Liverpool,53197.0,Etihad Stadium
+08/04/2022,32.0,Newcastle,Wolves,52164.0,St. James' Park
+10/04/2022,32.0,Norwich,Burnley,26361.0,Carrow Road
+09/04/2022,32.0,Southampton,Chelsea,31359.0,St. Mary's Stadium
+09/04/2022,32.0,Watford,Leeds,20957.0,Vicarage Road
+10/05/2022,36.0,Aston Villa,Liverpool,41919.0,Villa Park
+19/05/2022,37.0,Everton,Crystal Palace,38448.0,Goodison Park
+11/05/2022,36.0,Leeds,Chelsea,36549.0,Elland Road
+16/04/2022,33.0,Man United,Norwich,73381.0,Old Trafford
+17/04/2022,33.0,Newcastle,Leicester,52104.0,St. James' Park
+16/04/2022,33.0,Southampton,Arsenal,31465.0,St. Mary's Stadium
+16/04/2022,33.0,Tottenham,Brighton,58685.0,Tottenham Hotspur Stadium
+16/04/2022,33.0,Watford,Brentford,20747.0,Vicarage Road
+17/04/2022,33.0,West Ham,Burnley,59958.0,London Stadium
+11/05/2022,36.0,Wolves,Man City,,Molineux Stadium
+23/04/2022,34.0,Arsenal,Man United,60223.0,Emirates Stadium
+23/04/2022,34.0,Brentford,Tottenham,17072.0,Gtech Community Stadium
+24/04/2022,34.0,Brighton,Southampton,31335.0,Amex Stadium
+24/04/2022,34.0,Burnley,Wolves,19246.0,Turf Moor
+24/04/2022,34.0,Chelsea,West Ham,32231.0,Stamford Bridge
+25/04/2022,34.0,Crystal Palace,Leeds,25357.0,Selhurst Park
+23/04/2022,34.0,Leicester,Aston Villa,32185.0,King Power Stadium
+24/04/2022,34.0,Liverpool,Everton,53213.0,Anfield
+23/04/2022,34.0,Man City,Watford,53013.0,Etihad Stadium
+23/04/2022,34.0,Norwich,Newcastle,26910.0,Carrow Road
+30/04/2022,35.0,Aston Villa,Norwich,40290.0,Villa Park
+01/05/2022,35.0,Everton,Chelsea,39256.0,Goodison Park
+30/04/2022,35.0,Leeds,Man City,35771.0,Elland Road
+02/05/2022,35.0,Man United,Brentford,73482.0,Old Trafford
+30/04/2022,35.0,Newcastle,Liverpool,52281.0,St. James' Park
+30/04/2022,35.0,Southampton,Crystal Palace,31359.0,St. Mary's Stadium
+01/05/2022,35.0,Tottenham,Leicester,59482.0,Tottenham Hotspur Stadium
+30/04/2022,35.0,Watford,Burnley,20738.0,Vicarage Road
+01/05/2022,35.0,West Ham,Arsenal,59959.0,London Stadium
+30/04/2022,35.0,Wolves,Brighton,31243.0,Molineux Stadium
+08/05/2022,36.0,Arsenal,Leeds,60108.0,Emirates Stadium
+07/05/2022,36.0,Brentford,Southampton,17051.0,Gtech Community Stadium
+07/05/2022,36.0,Brighton,Man United,31637.0,Amex Stadium
+07/05/2022,36.0,Burnley,Aston Villa,20891.0,Turf Moor
+07/05/2022,36.0,Chelsea,Wolves,32190.0,Stamford Bridge
+07/05/2022,36.0,Crystal Palace,Watford,24622.0,Selhurst Park
+08/05/2022,36.0,Leicester,Everton,32001.0,King Power Stadium
+07/05/2022,36.0,Liverpool,Tottenham,53177.0,Anfield
+08/05/2022,36.0,Man City,Newcastle,53336.0,Etihad Stadium
+08/05/2022,36.0,Norwich,West Ham,26428.0,Carrow Road
+15/05/2022,37.0,Aston Villa,Crystal Palace,41136.0,Villa Park
+15/05/2022,37.0,Everton,Brentford,38819.0,Goodison Park
+15/05/2022,37.0,Leeds,Brighton,36638.0,Elland Road
+28/04/2022,34.0,Man United,Chelsea,73564.0,Old Trafford
+16/05/2022,37.0,Newcastle,Arsenal,52274.0,St. James' Park
+17/05/2022,37.0,Southampton,Liverpool,31588.0,St. Mary's Stadium
+15/05/2022,37.0,Tottenham,Burnley,61729.0,Tottenham Hotspur Stadium
+15/05/2022,37.0,Watford,Leicester,20257.0,Vicarage Road
+15/05/2022,37.0,West Ham,Man City,59972.0,London Stadium
+15/05/2022,37.0,Wolves,Norwich,31219.0,Molineux Stadium
+22/05/2022,38.0,Arsenal,Everton,60201.0,Emirates Stadium
+22/05/2022,38.0,Brentford,Leeds,16957.0,Gtech Community Stadium
+22/05/2022,38.0,Brighton,West Ham,31604.0,Amex Stadium
+22/05/2022,38.0,Burnley,Newcastle,21361.0,Turf Moor
+22/05/2022,38.0,Chelsea,Watford,32089.0,Stamford Bridge
+22/05/2022,38.0,Crystal Palace,Man United,25434.0,Selhurst Park
+22/05/2022,38.0,Leicester,Southampton,32003.0,King Power Stadium
+22/05/2022,38.0,Liverpool,Wolves,53097.0,Anfield
+22/05/2022,38.0,Man City,Aston Villa,53395.0,Etihad Stadium
+22/05/2022,38.0,Norwich,Tottenham,27022.0,Carrow Road
+05/08/2022,1.0,Crystal Palace,Arsenal,25286.0,Selhurst Park
+06/08/2022,1.0,Bournemouth,Aston Villa,10000.0,Vitality Stadium
+06/08/2022,1.0,Everton,Chelsea,39254.0,Goodison Park
+06/08/2022,1.0,Fulham,Liverpool,25000.0,Craven Cottage
+06/08/2022,1.0,Leeds,Wolves,36347.0,Elland Road
+07/08/2022,1.0,Leicester,Brentford,31794.0,King Power Stadium
+06/08/2022,1.0,Newcastle,Nott'm Forest,52245.0,St. James' Park
+06/08/2022,1.0,Tottenham,Southampton,61732.0,Tottenham Hotspur Stadium
+07/08/2022,1.0,Man United,Brighton,73711.0,Old Trafford
+07/08/2022,1.0,West Ham,Man City,62443.0,London Stadium
+13/08/2022,2.0,Arsenal,Leicester,60033.0,Emirates Stadium
+13/08/2022,2.0,Aston Villa,Everton,41883.0,Villa Park
+13/08/2022,2.0,Brentford,Man United,17051.0,Gtech Community Stadium
+13/08/2022,2.0,Brighton,Newcastle,31552.0,Amex Stadium
+14/08/2022,2.0,Chelsea,Tottenham,39946.0,Stamford Bridge
+15/08/2022,2.0,Liverpool,Crystal Palace,52970.0,Anfield
+13/08/2022,2.0,Man City,Bournemouth,53453.0,Etihad Stadium
+14/08/2022,2.0,Nott'm Forest,West Ham,29281.0,The City Ground
+13/08/2022,2.0,Southampton,Leeds,30815.0,St. Mary's Stadium
+13/08/2022,2.0,Wolves,Fulham,31178.0,Molineux Stadium
+20/08/2022,3.0,Bournemouth,Arsenal,10423.0,Vitality Stadium
+20/08/2022,3.0,Crystal Palace,Aston Villa,22012.0,Selhurst Park
+20/08/2022,3.0,Everton,Nott'm Forest,39271.0,Goodison Park
+20/08/2022,3.0,Fulham,Brentford,21798.0,Craven Cottage
+21/08/2022,3.0,Leeds,Chelsea,36372.0,Elland Road
+20/08/2022,3.0,Leicester,Southampton,30850.0,King Power Stadium
+22/08/2022,3.0,Man United,Liverpool,,Old Trafford
+21/08/2022,3.0,Newcastle,Man City,52258.0,St. James' Park
+20/08/2022,3.0,Tottenham,Wolves,61298.0,Tottenham Hotspur Stadium
+21/08/2022,3.0,West Ham,Brighton,62449.0,London Stadium
+27/08/2022,4.0,Arsenal,Fulham,60164.0,Emirates Stadium
+28/08/2022,4.0,Aston Villa,West Ham,41796.0,Villa Park
+27/08/2022,4.0,Brentford,Everton,17009.0,Gtech Community Stadium
+27/08/2022,4.0,Brighton,Leeds,30953.0,Amex Stadium
+27/08/2022,4.0,Chelsea,Leicester,39953.0,Stamford Bridge
+27/08/2022,4.0,Liverpool,Bournemouth,53328.0,Anfield
+27/08/2022,4.0,Man City,Crystal Palace,53112.0,Etihad Stadium
+28/08/2022,4.0,Nott'm Forest,Tottenham,29296.0,The City Ground
+27/08/2022,4.0,Southampton,Man United,31196.0,St. Mary's Stadium
+28/08/2022,4.0,Wolves,Newcastle,31311.0,Molineux Stadium
+31/08/2022,5.0,Arsenal,Aston Villa,60012.0,Emirates Stadium
+31/08/2022,5.0,Bournemouth,Wolves,10113.0,Vitality Stadium
+30/08/2022,5.0,Crystal Palace,Brentford,25043.0,Selhurst Park
+30/08/2022,5.0,Fulham,Brighton,22224.0,Craven Cottage
+30/08/2022,5.0,Leeds,Everton,36338.0,Elland Road
+01/09/2022,5.0,Leicester,Man United,32226.0,King Power Stadium
+31/08/2022,5.0,West Ham,Tottenham,62450.0,London Stadium
+31/08/2022,5.0,Liverpool,Newcastle,53316.0,Anfield
+31/08/2022,5.0,Man City,Nott'm Forest,53409.0,Etihad Stadium
+30/08/2022,5.0,Southampton,Chelsea,,St. Mary's Stadium
+03/09/2022,6.0,Aston Villa,Man City,41830.0,Villa Park
+03/09/2022,6.0,Brentford,Leeds,,Gtech Community Stadium
+04/09/2022,6.0,Brighton,Leicester,31185.0,Amex Stadium
+03/09/2022,6.0,Chelsea,West Ham,39923.0,Stamford Bridge
+03/09/2022,6.0,Everton,Liverpool,39240.0,Goodison Park
+04/09/2022,6.0,Man United,Arsenal,73431.0,Old Trafford
+03/09/2022,6.0,Newcastle,Crystal Palace,51863.0,St. James' Park
+03/09/2022,6.0,Nott'm Forest,Bournemouth,28720.0,The City Ground
+03/09/2022,6.0,Tottenham,Fulham,61641.0,Tottenham Hotspur Stadium
+03/09/2022,6.0,Wolves,Southampton,30546.0,Molineux Stadium
+01/03/2023,25.0,Arsenal,Everton,60213.0,Emirates Stadium
+04/04/2023,29.0,Bournemouth,Brighton,10266.0,Vitality Stadium
+18/01/2023,20.0,Crystal Palace,Man United,23343.0,Selhurst Park
+12/01/2023,19.0,Fulham,Chelsea,24460.0,Craven Cottage
+04/04/2023,29.0,Leeds,Nott'm Forest,36740.0,Elland Road
+04/04/2023,29.0,Leicester,Aston Villa,32087.0,King Power Stadium
+01/03/2023,25.0,Liverpool,Wolves,53259.0,Anfield
+19/01/2023,20.0,Man City,Tottenham,53088.0,Etihad Stadium
+15/03/2023,27.0,Southampton,Brentford,30438.0,St. Mary's Stadium
+05/04/2023,29.0,West Ham,Newcastle,62470.0,London Stadium
+16/09/2022,8.0,Aston Villa,Southampton,40758.0,Villa Park
+18/09/2022,8.0,Brentford,Arsenal,17122.0,Gtech Community Stadium
+15/03/2023,27.0,Brighton,Crystal Palace,30933.0,Amex Stadium
+04/04/2023,29.0,Chelsea,Liverpool,40093.0,Stamford Bridge
+18/09/2022,8.0,Everton,West Ham,39298.0,Goodison Park
+08/02/2023,22.0,Man United,Leeds,73456.0,Old Trafford
+17/09/2022,8.0,Newcastle,Bournemouth,52238.0,St. James' Park
+16/09/2022,8.0,Nott'm Forest,Fulham,28654.0,The City Ground
+17/09/2022,8.0,Tottenham,Leicester,61450.0,Tottenham Hotspur Stadium
+17/09/2022,8.0,Wolves,Man City,31578.0,Molineux Stadium
+01/10/2022,9.0,Arsenal,Tottenham,60278.0,Emirates Stadium
+01/10/2022,9.0,Bournemouth,Brentford,10126.0,Vitality Stadium
+01/10/2022,9.0,Crystal Palace,Chelsea,25198.0,Selhurst Park
+01/10/2022,9.0,Fulham,Newcastle,22913.0,Craven Cottage
+02/10/2022,9.0,Leeds,Aston Villa,36582.0,Elland Road
+03/10/2022,9.0,Leicester,Nott'm Forest,32202.0,King Power Stadium
+01/10/2022,9.0,Liverpool,Brighton,53320.0,Anfield
+02/10/2022,9.0,Man City,Man United,53475.0,Etihad Stadium
+01/10/2022,9.0,Southampton,Everton,30510.0,St. Mary's Stadium
+01/10/2022,9.0,West Ham,Wolves,62444.0,London Stadium
+09/10/2022,10.0,Arsenal,Liverpool,59968.0,Emirates Stadium
+08/10/2022,10.0,Bournemouth,Leicester,10272.0,Vitality Stadium
+08/10/2022,10.0,Brighton,Tottenham,31498.0,Amex Stadium
+08/10/2022,10.0,Chelsea,Wolves,39940.0,Stamford Bridge
+09/10/2022,10.0,Crystal Palace,Leeds,25042.0,Selhurst Park
+09/10/2022,10.0,Everton,Man United,39258.0,Goodison Park
+08/10/2022,10.0,Man City,Southampton,53365.0,Etihad Stadium
+08/10/2022,10.0,Newcastle,Brentford,52067.0,St. James' Park
+10/10/2022,10.0,Nott'm Forest,Aston Villa,29208.0,The City Ground
+09/10/2022,10.0,West Ham,Fulham,62454.0,London Stadium
+16/10/2022,11.0,Aston Villa,Chelsea,41754.0,Villa Park
+14/10/2022,11.0,Brentford,Brighton,17016.0,Gtech Community Stadium
+15/10/2022,11.0,Fulham,Bournemouth,22913.0,Craven Cottage
+16/10/2022,11.0,Leeds,Arsenal,36700.0,Elland Road
+15/10/2022,11.0,Leicester,Crystal Palace,31298.0,King Power Stadium
+16/10/2022,11.0,Liverpool,Man City,53286.0,Anfield
+16/10/2022,11.0,Man United,Newcastle,73726.0,Old Trafford
+16/10/2022,11.0,Southampton,West Ham,29159.0,St. Mary's Stadium
+15/10/2022,11.0,Tottenham,Everton,61812.0,Tottenham Hotspur Stadium
+15/10/2022,11.0,Wolves,Nott'm Forest,31554.0,Molineux Stadium
+15/02/2023,23.0,Arsenal,Man City,60276.0,Emirates Stadium
+19/10/2022,12.0,Bournemouth,Southampton,10405.0,Vitality Stadium
+19/10/2022,12.0,Brentford,Chelsea,17118.0,Gtech Community Stadium
+18/10/2022,12.0,Brighton,Nott'm Forest,31463.0,Amex Stadium
+18/10/2022,12.0,Crystal Palace,Wolves,25125.0,Selhurst Park
+20/10/2022,12.0,Fulham,Aston Villa,23508.0,Craven Cottage
+20/10/2022,12.0,Leicester,Leeds,30814.0,King Power Stadium
+19/10/2022,12.0,Liverpool,West Ham,53346.0,Anfield
+19/10/2022,12.0,Man United,Tottenham,73677.0,Old Trafford
+19/10/2022,12.0,Newcastle,Everton,52247.0,St. James' Park
+23/10/2022,13.0,Aston Villa,Brentford,41693.0,Villa Park
+22/10/2022,13.0,Chelsea,Man United,39503.0,Stamford Bridge
+22/10/2022,13.0,Everton,Crystal Palace,38939.0,Goodison Park
+23/10/2022,13.0,Leeds,Fulham,36447.0,Elland Road
+22/10/2022,13.0,Man City,Brighton,53223.0,Etihad Stadium
+22/10/2022,13.0,Nott'm Forest,Liverpool,29245.0,The City Ground
+23/10/2022,13.0,Southampton,Arsenal,31145.0,St. Mary's Stadium
+23/10/2022,13.0,Tottenham,Newcastle,61726.0,Tottenham Hotspur Stadium
+24/10/2022,13.0,West Ham,Bournemouth,62447.0,London Stadium
+23/10/2022,13.0,Wolves,Leicester,31425.0,Molineux Stadium
+30/10/2022,14.0,Arsenal,Nott'm Forest,60263.0,Emirates Stadium
+29/10/2022,14.0,Bournemouth,Tottenham,10430.0,Vitality Stadium
+29/10/2022,14.0,Brentford,Wolves,17051.0,Gtech Community Stadium
+29/10/2022,14.0,Brighton,Chelsea,31746.0,Amex Stadium
+29/10/2022,14.0,Crystal Palace,Southampton,25130.0,Selhurst Park
+29/10/2022,14.0,Fulham,Everton,23534.0,Craven Cottage
+29/10/2022,14.0,Leicester,Man City,32223.0,King Power Stadium
+29/10/2022,14.0,Liverpool,Leeds,53274.0,Anfield
+30/10/2022,14.0,Man United,West Ham,73682.0,Old Trafford
+29/10/2022,14.0,Newcastle,Aston Villa,52233.0,St. James' Park
+06/11/2022,15.0,Aston Villa,Man United,42058.0,Villa Park
+06/11/2022,15.0,Chelsea,Arsenal,40142.0,Stamford Bridge
+05/11/2022,15.0,Everton,Leicester,39206.0,Goodison Park
+05/11/2022,15.0,Leeds,Bournemouth,36304.0,Elland Road
+05/11/2022,15.0,Man City,Fulham,52395.0,Etihad Stadium
+05/11/2022,15.0,Nott'm Forest,Brentford,28869.0,The City Ground
+06/11/2022,15.0,Southampton,Newcastle,30402.0,St. Mary's Stadium
+06/11/2022,15.0,Tottenham,Liverpool,62008.0,Tottenham Hotspur Stadium
+06/11/2022,15.0,West Ham,Crystal Palace,62451.0,London Stadium
+05/11/2022,15.0,Wolves,Brighton,30732.0,Molineux Stadium
+12/11/2022,16.0,Bournemouth,Everton,10382.0,Vitality Stadium
+13/11/2022,16.0,Brighton,Aston Villa,31581.0,Amex Stadium
+13/11/2022,16.0,Fulham,Man United,24246.0,Craven Cottage
+12/11/2022,16.0,Liverpool,Southampton,53331.0,Anfield
+12/11/2022,16.0,Man City,Brentford,52786.0,Etihad Stadium
+12/11/2022,16.0,Newcastle,Chelsea,52264.0,St. James' Park
+12/11/2022,16.0,Nott'm Forest,Crystal Palace,29045.0,The City Ground
+12/11/2022,16.0,Tottenham,Leeds,61667.0,Tottenham Hotspur Stadium
+12/11/2022,16.0,West Ham,Leicester,62459.0,London Stadium
+12/11/2022,16.0,Wolves,Arsenal,34624.0,Molineux Stadium
+26/12/2022,17.0,Arsenal,West Ham,60125.0,Emirates Stadium
+26/12/2022,17.0,Aston Villa,Liverpool,42085.0,Villa Park
+26/12/2022,17.0,Brentford,Tottenham,17137.0,Gtech Community Stadium
+27/12/2022,17.0,Chelsea,Bournemouth,40046.0,Stamford Bridge
+26/12/2022,17.0,Crystal Palace,Fulham,25176.0,Selhurst Park
+26/12/2022,17.0,Everton,Wolves,39252.0,Goodison Park
+28/12/2022,17.0,Leeds,Man City,36889.0,Elland Road
+26/12/2022,17.0,Leicester,Newcastle,32185.0,King Power Stadium
+27/12/2022,17.0,Man United,Nott'm Forest,73608.0,Old Trafford
+26/12/2022,17.0,Southampton,Brighton,31010.0,St. Mary's Stadium
+31/12/2022,18.0,Bournemouth,Crystal Palace,9972.0,Vitality Stadium
+31/12/2022,18.0,Brighton,Arsenal,31647.0,Amex Stadium
+31/12/2022,18.0,Fulham,Southampton,24344.0,Craven Cottage
+30/12/2022,18.0,Liverpool,Leicester,53343.0,Anfield
+31/12/2022,18.0,Man City,Everton,53444.0,Etihad Stadium
+31/12/2022,18.0,Newcastle,Leeds,52211.0,St. James' Park
+01/01/2023,18.0,Nott'm Forest,Chelsea,29229.0,The City Ground
+01/01/2023,18.0,Tottenham,Aston Villa,61651.0,Tottenham Hotspur Stadium
+30/12/2022,18.0,West Ham,Brentford,62467.0,London Stadium
+31/12/2022,18.0,Wolves,Man United,31658.0,Molineux Stadium
+03/01/2023,19.0,Arsenal,Newcastle,60319.0,Emirates Stadium
+04/01/2023,19.0,Aston Villa,Wolves,39978.0,Villa Park
+02/01/2023,19.0,Brentford,Liverpool,17163.0,Gtech Community Stadium
+05/01/2023,19.0,Chelsea,Man City,39998.0,Stamford Bridge
+04/01/2023,19.0,Crystal Palace,Tottenham,25132.0,Selhurst Park
+03/01/2023,19.0,Everton,Brighton,,Goodison Park
+04/01/2023,19.0,Leeds,West Ham,36173.0,Elland Road
+03/01/2023,19.0,Leicester,Fulham,30813.0,King Power Stadium
+03/01/2023,19.0,Man United,Bournemouth,73322.0,Old Trafford
+04/01/2023,19.0,Southampton,Nott'm Forest,30150.0,St. Mary's Stadium
+13/01/2023,20.0,Aston Villa,Leeds,42008.0,Villa Park
+14/01/2023,20.0,Brentford,Bournemouth,17031.0,Gtech Community Stadium
+14/01/2023,20.0,Brighton,Liverpool,31645.0,Amex Stadium
+15/01/2023,20.0,Chelsea,Crystal Palace,40075.0,Stamford Bridge
+14/01/2023,20.0,Everton,Southampton,39305.0,Goodison Park
+14/01/2023,20.0,Man United,Man City,75546.0,Old Trafford
+15/01/2023,20.0,Newcastle,Fulham,52247.0,St. James' Park
+14/01/2023,20.0,Nott'm Forest,Leicester,29301.0,The City Ground
+15/01/2023,20.0,Tottenham,Arsenal,61870.0,Tottenham Hotspur Stadium
+14/01/2023,20.0,Wolves,West Ham,31511.0,Molineux Stadium
+22/01/2023,21.0,Arsenal,Man United,60325.0,Emirates Stadium
+21/01/2023,21.0,Bournemouth,Nott'm Forest,10248.0,Vitality Stadium
+21/01/2023,21.0,Crystal Palace,Newcastle,25350.0,Selhurst Park
+23/01/2023,21.0,Fulham,Tottenham,24190.0,Craven Cottage
+22/01/2023,21.0,Leeds,Brentford,36260.0,Elland Road
+21/01/2023,21.0,Leicester,Brighton,32056.0,King Power Stadium
+21/01/2023,21.0,Liverpool,Chelsea,53126.0,Anfield
+22/01/2023,21.0,Man City,Wolves,53282.0,Etihad Stadium
+21/01/2023,21.0,Southampton,Aston Villa,30158.0,St. Mary's Stadium
+21/01/2023,21.0,West Ham,Everton,62470.0,London Stadium
+04/02/2023,22.0,Aston Villa,Leicester,42055.0,Villa Park
+04/02/2023,22.0,Brentford,Southampton,17051.0,Gtech Community Stadium
+04/02/2023,22.0,Brighton,Bournemouth,31600.0,Amex Stadium
+03/02/2023,22.0,Chelsea,Fulham,40041.0,Stamford Bridge
+04/02/2023,22.0,Everton,Arsenal,39314.0,Goodison Park
+04/02/2023,22.0,Man United,Crystal Palace,73420.0,Old Trafford
+04/02/2023,22.0,Newcastle,West Ham,52256.0,St. James' Park
+05/02/2023,22.0,Nott'm Forest,Leeds,29363.0,The City Ground
+05/02/2023,22.0,Tottenham,Man City,61747.0,Tottenham Hotspur Stadium
+04/02/2023,22.0,Wolves,Liverpool,31664.0,Molineux Stadium
+11/02/2023,23.0,Arsenal,Brentford,60254.0,Emirates Stadium
+11/02/2023,23.0,Bournemouth,Newcastle,10419.0,Vitality Stadium
+11/02/2023,23.0,Crystal Palace,Brighton,24827.0,Selhurst Park
+11/02/2023,23.0,Fulham,Nott'm Forest,24244.0,Craven Cottage
+12/02/2023,23.0,Leeds,Man United,36919.0,Elland Road
+11/02/2023,23.0,Leicester,Tottenham,32184.0,King Power Stadium
+13/02/2023,23.0,Liverpool,Everton,53027.0,Anfield
+12/02/2023,23.0,Man City,Aston Villa,53392.0,Etihad Stadium
+11/02/2023,23.0,Southampton,Wolves,29751.0,St. Mary's Stadium
+11/02/2023,23.0,West Ham,Chelsea,62471.0,London Stadium
+18/02/2023,24.0,Aston Villa,Arsenal,42066.0,Villa Park
+18/02/2023,24.0,Brentford,Crystal Palace,17122.0,Gtech Community Stadium
+18/02/2023,24.0,Brighton,Fulham,31619.0,Amex Stadium
+18/02/2023,24.0,Chelsea,Southampton,40152.0,Stamford Bridge
+18/02/2023,24.0,Everton,Leeds,39232.0,Goodison Park
+19/02/2023,24.0,Man United,Leicester,73578.0,Old Trafford
+18/02/2023,24.0,Newcastle,Liverpool,52758.0,St. James' Park
+18/02/2023,24.0,Nott'm Forest,Man City,29365.0,The City Ground
+19/02/2023,24.0,Tottenham,West Ham,61476.0,Tottenham Hotspur Stadium
+18/02/2023,24.0,Wolves,Bournemouth,31222.0,Molineux Stadium
+25/02/2023,25.0,Bournemouth,Man City,10481.0,Vitality Stadium
+25/02/2023,25.0,Crystal Palace,Liverpool,25842.0,Selhurst Park
+25/02/2023,25.0,Everton,Aston Villa,39309.0,Goodison Park
+24/02/2023,25.0,Fulham,Wolves,24399.0,Craven Cottage
+25/02/2023,25.0,Leeds,Southampton,36641.0,Elland Road
+25/02/2023,25.0,Leicester,Arsenal,32227.0,King Power Stadium
+05/04/2023,29.0,Man United,Brentford,73309.0,Old Trafford
+18/05/2023,36.0,Newcastle,Brighton,52122.0,St. James' Park
+26/02/2023,25.0,Tottenham,Chelsea,61613.0,Tottenham Hotspur Stadium
+25/02/2023,25.0,West Ham,Nott'm Forest,62469.0,London Stadium
+04/03/2023,26.0,Arsenal,Bournemouth,60222.0,Emirates Stadium
+04/03/2023,26.0,Aston Villa,Crystal Palace,41893.0,Villa Park
+06/03/2023,26.0,Brentford,Fulham,17025.0,Gtech Community Stadium
+04/03/2023,26.0,Brighton,West Ham,31523.0,Amex Stadium
+04/03/2023,26.0,Chelsea,Leeds,39905.0,Stamford Bridge
+05/03/2023,26.0,Liverpool,Man United,53001.0,Anfield
+04/03/2023,26.0,Man City,Newcastle,53419.0,Etihad Stadium
+05/03/2023,26.0,Nott'm Forest,Everton,29353.0,The City Ground
+04/03/2023,26.0,Southampton,Leicester,30139.0,St. Mary's Stadium
+04/03/2023,26.0,Wolves,Tottenham,31585.0,Molineux Stadium
+11/03/2023,27.0,Bournemouth,Liverpool,10536.0,Vitality Stadium
+11/03/2023,27.0,Crystal Palace,Man City,25844.0,Selhurst Park
+11/03/2023,27.0,Everton,Brentford,39036.0,Goodison Park
+12/03/2023,27.0,Fulham,Arsenal,24426.0,Craven Cottage
+11/03/2023,27.0,Leeds,Brighton,36471.0,Elland Road
+11/03/2023,27.0,Leicester,Chelsea,32170.0,King Power Stadium
+12/03/2023,27.0,Man United,Southampton,73439.0,Old Trafford
+12/03/2023,27.0,Newcastle,Wolves,52240.0,St. James' Park
+11/03/2023,27.0,Tottenham,Nott'm Forest,61460.0,Tottenham Hotspur Stadium
+12/03/2023,27.0,West Ham,Aston Villa,62472.0,London Stadium
+19/03/2023,28.0,Arsenal,Crystal Palace,60247.0,Emirates Stadium
+18/03/2023,28.0,Aston Villa,Bournemouth,41021.0,Villa Park
+18/03/2023,28.0,Brentford,Leicester,17006.0,Gtech Community Stadium
+04/05/2023,34.0,Brighton,Man United,31577.0,Amex Stadium
+18/03/2023,28.0,Chelsea,Everton,40025.0,Stamford Bridge
+03/05/2023,34.0,Liverpool,Fulham,52602.0,Anfield
+03/05/2023,34.0,Man City,West Ham,53305.0,Etihad Stadium
+17/03/2023,28.0,Nott'm Forest,Newcastle,29362.0,The City Ground
+18/03/2023,28.0,Southampton,Tottenham,30157.0,St. Mary's Stadium
+18/03/2023,28.0,Wolves,Leeds,31570.0,Molineux Stadium
+01/04/2023,29.0,Arsenal,Leeds,60283.0,Emirates Stadium
+01/04/2023,29.0,Bournemouth,Fulham,10305.0,Vitality Stadium
+01/04/2023,29.0,Brighton,Brentford,31493.0,Amex Stadium
+01/04/2023,29.0,Chelsea,Aston Villa,40082.0,Stamford Bridge
+01/04/2023,29.0,Crystal Palace,Leicester,25143.0,Selhurst Park
+03/04/2023,29.0,Everton,Tottenham,39294.0,Goodison Park
+01/04/2023,29.0,Man City,Liverpool,52877.0,Etihad Stadium
+02/04/2023,29.0,Newcastle,Man United,52268.0,St. James' Park
+01/04/2023,29.0,Nott'm Forest,Wolves,29368.0,The City Ground
+02/04/2023,29.0,West Ham,Southampton,62465.0,London Stadium
+08/04/2023,30.0,Aston Villa,Nott'm Forest,42076.0,Villa Park
+08/04/2023,30.0,Brentford,Newcastle,17107.0,Gtech Community Stadium
+08/04/2023,30.0,Fulham,West Ham,24491.0,Craven Cottage
+09/04/2023,30.0,Leeds,Crystal Palace,36427.0,Elland Road
+08/04/2023,30.0,Leicester,Bournemouth,32094.0,King Power Stadium
+09/04/2023,30.0,Liverpool,Arsenal,53267.0,Anfield
+08/04/2023,30.0,Man United,Everton,73509.0,Old Trafford
+08/04/2023,30.0,Southampton,Man City,30963.0,St. Mary's Stadium
+08/04/2023,30.0,Tottenham,Brighton,61405.0,Tottenham Hotspur Stadium
+08/04/2023,30.0,Wolves,Chelsea,31614.0,Molineux Stadium
+15/04/2023,31.0,Aston Villa,Newcastle,42055.0,Villa Park
+15/04/2023,31.0,Chelsea,Brighton,40126.0,Stamford Bridge
+15/04/2023,31.0,Everton,Fulham,39241.0,Goodison Park
+17/04/2023,31.0,Leeds,Liverpool,36657.0,Elland Road
+15/04/2023,31.0,Man City,Leicester,53329.0,Etihad Stadium
+16/04/2023,31.0,Nott'm Forest,Man United,29435.0,The City Ground
+15/04/2023,31.0,Southampton,Crystal Palace,30309.0,St. Mary's Stadium
+15/04/2023,31.0,Tottenham,Bournemouth,61369.0,Tottenham Hotspur Stadium
+16/04/2023,31.0,West Ham,Arsenal,62475.0,London Stadium
+15/04/2023,31.0,Wolves,Brentford,30769.0,Molineux Stadium
+21/04/2023,32.0,Arsenal,Southampton,60175.0,Emirates Stadium
+23/04/2023,32.0,Bournemouth,West Ham,10465.0,Vitality Stadium
+22/04/2023,32.0,Brentford,Aston Villa,17098.0,Gtech Community Stadium
+24/05/2023,37.0,Brighton,Man City,31388.0,Amex Stadium
+22/04/2023,32.0,Crystal Palace,Everton,25202.0,Selhurst Park
+22/04/2023,32.0,Fulham,Leeds,24356.0,Craven Cottage
+22/04/2023,32.0,Leicester,Wolves,32053.0,King Power Stadium
+22/04/2023,32.0,Liverpool,Nott'm Forest,,Anfield
+25/05/2023,37.0,Man United,Chelsea,73561.0,Old Trafford
+23/04/2023,32.0,Newcastle,Tottenham,52252.0,St. James' Park
+25/04/2023,33.0,Aston Villa,Fulham,41046.0,Villa Park
+27/04/2023,33.0,Everton,Newcastle,39248.0,Goodison Park
+25/04/2023,33.0,Leeds,Leicester,36666.0,Elland Road
+26/04/2023,33.0,Nott'm Forest,Brighton,28808.0,The City Ground
+27/04/2023,33.0,Tottenham,Man United,61586.0,Tottenham Hotspur Stadium
+26/04/2023,33.0,West Ham,Liverpool,62473.0,London Stadium
+25/04/2023,33.0,Wolves,Crystal Palace,30792.0,Molineux Stadium
+26/04/2023,33.0,Chelsea,Brentford,39929.0,Stamford Bridge
+26/04/2023,33.0,Man City,Arsenal,53482.0,Etihad Stadium
+27/04/2023,33.0,Southampton,Bournemouth,30414.0,St. Mary's Stadium
+02/05/2023,34.0,Arsenal,Chelsea,60144.0,Emirates Stadium
+30/04/2023,34.0,Bournemouth,Leeds,10434.0,Vitality Stadium
+29/04/2023,34.0,Brentford,Nott'm Forest,17080.0,Gtech Community Stadium
+29/04/2023,34.0,Brighton,Wolves,31584.0,Amex Stadium
+29/04/2023,34.0,Crystal Palace,West Ham,25148.0,Selhurst Park
+30/04/2023,34.0,Fulham,Man City,24498.0,Craven Cottage
+01/05/2023,34.0,Leicester,Everton,32173.0,King Power Stadium
+30/04/2023,34.0,Liverpool,Tottenham,53275.0,Anfield
+30/04/2023,34.0,Man United,Aston Villa,73592.0,Old Trafford
+30/04/2023,34.0,Newcastle,Southampton,52234.0,St. James' Park
+06/05/2023,35.0,Bournemouth,Chelsea,10357.0,Vitality Stadium
+08/05/2023,35.0,Brighton,Everton,31567.0,Amex Stadium
+08/05/2023,35.0,Fulham,Leicester,24442.0,Craven Cottage
+06/05/2023,35.0,Liverpool,Brentford,52838.0,Anfield
+06/05/2023,35.0,Man City,Leeds,53406.0,Etihad Stadium
+07/05/2023,35.0,Newcastle,Arsenal,50267.0,St. James' Park
+08/05/2023,35.0,Nott'm Forest,Southampton,29154.0,The City Ground
+06/05/2023,35.0,Tottenham,Crystal Palace,61093.0,Tottenham Hotspur Stadium
+07/05/2023,35.0,West Ham,Man United,62477.0,London Stadium
+06/05/2023,35.0,Wolves,Aston Villa,31641.0,Molineux Stadium
+14/05/2023,36.0,Arsenal,Brighton,60139.0,Emirates Stadium
+13/05/2023,36.0,Aston Villa,Tottenham,42164.0,Villa Park
+14/05/2023,36.0,Brentford,West Ham,17075.0,Gtech Community Stadium
+13/05/2023,36.0,Chelsea,Nott'm Forest,40030.0,Stamford Bridge
+13/05/2023,36.0,Crystal Palace,Bournemouth,25034.0,Selhurst Park
+14/05/2023,36.0,Everton,Man City,39376.0,Goodison Park
+13/05/2023,36.0,Leeds,Newcastle,36955.0,Elland Road
+15/05/2023,36.0,Leicester,Liverpool,32225.0,King Power Stadium
+13/05/2023,36.0,Man United,Wolves,73570.0,Old Trafford
+13/05/2023,36.0,Southampton,Fulham,28978.0,St. Mary's Stadium
+20/05/2023,37.0,Bournemouth,Man United,10240.0,Vitality Stadium
+21/05/2023,37.0,Brighton,Southampton,31507.0,Amex Stadium
+20/05/2023,37.0,Fulham,Crystal Palace,24356.0,Craven Cottage
+20/05/2023,37.0,Liverpool,Aston Villa,53306.0,Anfield
+21/05/2023,37.0,Man City,Chelsea,53490.0,Etihad Stadium
+22/05/2023,37.0,Newcastle,Leicester,52152.0,St. James' Park
+20/05/2023,37.0,Nott'm Forest,Arsenal,29514.0,The City Ground
+20/05/2023,37.0,Tottenham,Brentford,61514.0,Tottenham Hotspur Stadium
+21/05/2023,37.0,West Ham,Leeds,62478.0,London Stadium
+20/05/2023,37.0,Wolves,Everton,31684.0,Molineux Stadium
+28/05/2023,38.0,Arsenal,Wolves,60095.0,Emirates Stadium
+28/05/2023,38.0,Aston Villa,Brighton,42212.0,Villa Park
+28/05/2023,38.0,Brentford,Man City,17120.0,Gtech Community Stadium
+28/05/2023,38.0,Chelsea,Newcastle,40130.0,Stamford Bridge
+28/05/2023,38.0,Crystal Palace,Nott'm Forest,25198.0,Selhurst Park
+28/05/2023,38.0,Everton,Bournemouth,39201.0,Goodison Park
+28/05/2023,38.0,Leeds,Tottenham,36871.0,Elland Road
+28/05/2023,38.0,Leicester,West Ham,32183.0,King Power Stadium
+28/05/2023,38.0,Man United,Fulham,73465.0,Old Trafford
+28/05/2023,38.0,Southampton,Liverpool,31129.0,St. Mary's Stadium
